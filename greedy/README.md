@@ -1,0 +1,1 @@
+Greedy (algoritmos gananciosos)

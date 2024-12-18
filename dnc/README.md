@@ -1,0 +1,1 @@
+Divide and Conquer (divisão e conquista)
